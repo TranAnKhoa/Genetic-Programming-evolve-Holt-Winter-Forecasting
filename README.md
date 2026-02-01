@@ -57,7 +57,11 @@ Visual comparison of forecasting results across:
 - SARIMA
 
 🎥 **Demo Video:**  
-https://github.com/user-attachments/assets/9261f885-1569-4e24-8bf9-11c5cc57a9ea
+
+
+https://github.com/user-attachments/assets/691b94ce-f247-49d9-b28c-f3406298d830
+
+
 
 
 ---
