@@ -1,4 +1,4 @@
-[Report_Time_Series_Cat1_Group_7_Thur_78.pdf](https://github.com/user-attachments/files/24988618/Report_Time_Series_Cat1_Group_7_Thur_78.pdf)# 🧬 Evolutionary Time Series Forecasting with Genetic Programming
+# 🧬 Evolutionary Time Series Forecasting with Genetic Programming
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Method](https://img.shields.io/badge/Method-Genetic_Programming-purple)
